@@ -1,0 +1,6 @@
+{
+    "plugins": [
+        "babel-plugin-react-require",
+        "babel-plugin-transform-react-remove-prop-types"
+    ]
+}
